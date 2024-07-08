@@ -20,10 +20,10 @@ Ivy
 
 
 ## Setup Instructions
-Clone the repository to your local machine.
-Navigate to the project directory.
-Run npm install to install dependencies.
-Run npm start to start the development server.
+-Clone the repository to your local machine.
+-Navigate to the project directory.
+-Run npm install to install dependencies.
+-un npm start to start the development server.
 
 
 ## Contact Information
