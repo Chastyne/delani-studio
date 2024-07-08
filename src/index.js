@@ -8,5 +8,14 @@ $(document).ready(function() {
         $('.description').not(target).hide(); // Hide all descriptions except the target
         $(target).toggle(); // Toggle the target description
     });
+
+    $('.portfolio-hover').hover(
+        function() {
+            $(this).find('.hover-content').css('opacity', '1');
+        },
+        function() {
+            $(this).find('.hover-content').css('opacity', '0');
+        }
+    );
     
 });
