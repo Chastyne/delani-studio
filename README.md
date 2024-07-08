@@ -25,6 +25,9 @@ Ivy
 -Run npm install to install dependencies.
 -un npm start to start the development server.
 
+## Live Site
+The live site is hosted on GitHub Pages. You can access it here
+
 
 ## Contact Information
 For inquiries, please contact:
