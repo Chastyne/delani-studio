@@ -26,7 +26,7 @@ Ivy
 -un npm start to start the development server.
 
 ## Live Site
-The live site is hosted on GitHub Pages. You can access it here
+The live site is hosted on GitHub Pages. You can access it here [https://chastyne.github.io/delani-studio/]
 
 
 ## Contact Information
