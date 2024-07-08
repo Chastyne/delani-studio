@@ -17,5 +17,11 @@ $(document).ready(function() {
             $(this).find('.hover-content').css('opacity', '0');
         }
     );
+    // Form submission handler
+    $('#contact-form').submit(function(event) {
+        event.preventDefault();
+        var name = $('#name').val();
+        alert(name + ', we have received your message. Thank you for reaching out to us.');
+    });
     
 });
