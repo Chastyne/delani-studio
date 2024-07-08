@@ -69,6 +69,42 @@ header img.mouse_click {
     opacity: 1;
 }
 
+.contact-background {
+    background-image: url('../assets/backgrounds/c_image.jpg');
+    background-size: cover;
+    color: white;
+    padding: 50px;
+    
+}
+.contact-background h2 {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    background-color: transparent; /* Transparent background */
+    color: white;
+    border: 1px solid white 
+}
+.form-control::placeholder {
+    color: white; /* White placeholder text color */
+}
+
+.form-control:focus {
+    background-color: rgba(255, 255, 255, 0.5); /* Lighter semi-transparent white background on focus */
+    border-color: 1px solid white ;
+}
+
+
+.btn-primary {
+    background-color: grey; 
+    border-color: grey;
+}
+
+.btn-primary:hover {
+    background-color: black; 
+    border-color: black
+}
+
 
 
 
