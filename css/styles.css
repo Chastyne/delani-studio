@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background: url('../assets/backgrounds/h_img.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+    position: relative;
+}
+
+header img.logo {
+    width: 60px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+
+}
+
+header h1 {
+    font-size: 2rem;
+    
+}
+
+header p.descriptions {
+    font-size: 0.65rem;
+    margin-bottom: 50px;
+}
+
+header img.mouse_click {
+    width: 20px;
+
+}
+#about-us {
+    background-color: white;
+}
+
+#services {
+    background: url('../assets/backgrounds/s_image.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+
+
